@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\footer",
+    "\\src\\app\\todo-create",
+    "\\src\\app\\todo-details",
+    "\\src\\app\\todo-list",
+    "\\src\\app\\todo-title"
+  ],
+  "SelectedNode": "\\src\\app\\footer\\footer.component.ts",
+  "PreviewInSolutionExplorer": false
+}
